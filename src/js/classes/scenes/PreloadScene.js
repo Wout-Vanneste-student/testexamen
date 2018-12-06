@@ -7,11 +7,9 @@ export default class PreloadScene extends Phaser.Scene {
       key: `preload`
     });
   }
-  preload() {
+  init() {
     this.preloader = this.add.graphics();
-    this.load.image(`loadingBar, ./assets/preloader.png`);
   }
-
   create() {}
 
   update() {}

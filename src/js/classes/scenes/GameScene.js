@@ -1,7 +1,3 @@
-import Player from '../gameobjects/Player';
-import Enemy from '../gameobjects/Enemy';
-import Bullet from '../gameobjects/Bullet';
-
 export default class GameScene extends Phaser.Scene {
   constructor() {
     super({

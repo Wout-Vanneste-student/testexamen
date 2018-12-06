@@ -1,6 +1,3 @@
-import {getScores} from '../../functions/scores.js';
-import {saveScore} from '../../functions/scores.js';
-
 export default class GameOverScene extends Phaser.Scene {
   constructor() {
     super({

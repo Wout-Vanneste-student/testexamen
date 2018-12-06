@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "fingers.svg",
+	"frame": {"x":169,"y":1,"w":84,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":86},
+	"sourceSize": {"w":84,"h":86}
+},
+{
+	"filename": "love.svg",
+	"frame": {"x":255,"y":1,"w":84,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":86},
+	"sourceSize": {"w":84,"h":86}
+},
+{
+	"filename": "money.svg",
+	"frame": {"x":91,"y":1,"w":76,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":88},
+	"sourceSize": {"w":76,"h":88}
+},
+{
+	"filename": "nerd.svg",
+	"frame": {"x":1,"y":1,"w":88,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":92},
+	"sourceSize": {"w":88,"h":92}
+},
+{
+	"filename": "poo.svg",
+	"frame": {"x":427,"y":1,"w":84,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+},
+{
+	"filename": "smile.svg",
+	"frame": {"x":341,"y":1,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "exporttexturepacker.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":94},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:67be34754ee8a5eaf99d3add73118b76:9cad3e9230754e133085cb650af18500:9eb56f30cf498d44392337d7f69a2eb7$"
+}
+}
